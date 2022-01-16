@@ -1,13 +1,23 @@
-# Clustering Viruses based on Genome information - LightHouse Labs Data Science 
-Final Project Jan 2022
+# Predicting Malignant or Benign Breast Cancer Tumors.
+This project was done as the Final Project Jan 2022 for the LightHouse Labs Data Science Bootcamp. 
 
-In Genomics, homologous sequence alignment through comparisons of two genomes can measure the phylogenetic distance between organisms.
-The more distantly related two organisms are, the less sequence similarity or shared genomic features will be detected between them.
-Although this is specific to Eukaryotes, viruses may have a different measurement of similarity. 
+## Introduction and Motive 
+It is estimated that 1 in 8 women in Canada will develop breast cancer in their lifetime. 
+As a method of risk prevention and screening is to use mammography to visualize if a tumor is present. Breast cancer is often associated with a development of a tumor, which can be either benign (non-cancerous) or malignant (cancerous). With dimensions of these tumors taken from mammograms or physical inspection, a machine learning model can be trained to help identify whether a tumor is likely cancerous or not. 
 
-Using Hierachical Clustering of Virus genomic features and a metric to measure similarity (based on taxonomy or based on which organism they infect) 
+This implementation of machine learning could help physicians and experts in the field by filtering through mammogram results and determining if a given tumor is of concern based on its dimensions. 
 
-With the COVID-19 Pandemic permanently embedded into our daily lives, everyone has heard of the term virus. Viruses are submicroscopic infective agents that spread disease through the infection of live cells. Different Viruses exist to infect various organisms, from bacteria, invertebrate and humans etc. Virus similarity can be measured by ___ and with unsupervised learning and clustering of this measure and other features, the goal is to identify similar viruses (in the way they infect or phylogenetically) 
+The data for this project can be found here:
+Dataset: https://www.kaggle.com/yasserh/breast-cancer-dataset 
+Secondary Dataset for potential usage: 
+https://www.bcsc-research.org/data/mammography_dataset/digitial-mammo-dataset-download
+
+Exploratory Data Analysis: 
+
+Feature Engineering:
+
+Modeling:
+
+Evaluation: 
 
 
-Dataset: https://www.kaggle.com/lsind18/genome-information-by-organism?select=viruses.csv
