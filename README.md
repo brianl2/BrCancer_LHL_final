@@ -58,8 +58,11 @@ Furthermore, the measurements still require humans to do a biopsy and measure th
 Others have also used computer vision to try and diagnose cancer using MRI images, however the evaluation scores are much less reliable:
 https://www.mdpi.com/2076-3417/10/17/6109/pdf
 
+As a final note and some googling:
 A dataset for these MRI images was released in April of 2021, the dataset can be found here:
 https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70226903#70226903bcab02c187174a288dbcbf95d26179e8
+
+Perhaps this will be the next project to tackle!
 
 
 
