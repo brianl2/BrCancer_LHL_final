@@ -65,6 +65,6 @@ https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70226903#7022
 
 Perhaps this will be the next project to tackle!
 
-note: requirements.txt may have errors.
+Note: requirements.txt may have errors.
 
 
