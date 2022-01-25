@@ -4,7 +4,9 @@ This project was done as the Final Project Jan 2022 for the LightHouse Labs Data
 
 ## Introduction & Project Overview
 It is estimated that 1 in 8 women in Canada will develop breast cancer in their lifetime. 
-As a method of risk prevention and screening, mammography is to visualize if a tumor is present. Breast cancer is often associated with a development of a tumor, which can be either benign (non-cancerous) or malignant (cancerous). If the presence of a tumor is found, a biopsy method (like Fine Need Aspiration (FNA)) is the only reliable diagnostic solution. The Tumor cell dimensions can be taken from the FNA biopsy and placed into a machine learning model to help identify whether a tumor is likely cancerous or not. 
+As a method of risk prevention and screening, mammography is to visualize if a tumor is present. Breast cancer is often associated with a development of a tumor, which can be either benign (non-cancerous) or malignant (cancerous). 
+
+If the presence of a tumor is found, a biopsy method (like Fine Need Aspiration (FNA)) is the [only definite diagnostic solution](https://cancer.ca/en/cancer-information/cancer-types/breast/diagnosis). The Tumor cell dimensions can be taken from the FNA biopsy and placed into a machine learning model to help identify whether a tumor is likely cancerous or not. 
 
 This implementation of machine learning could help physicians and pathologists in the field by filtering through biopsy results and determining if a given tumor is of concern based on its dimensions. 
 
@@ -15,7 +17,7 @@ Dataset: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diag
 # Project Workflow
 
 ## Exploratory Data Analysis: 
-Here, we visualize the data and see what we can identify from the data. 
+Here, we visualize the data and see what we can identify.
   - We find that across all features / measurements of the cells, malignant cancerous cells typically carry higher values (This can be seen in Notebook 1.1 Data Exploration) 
   - However, both benign and malignant cells are highly variable, and thus to reduce the noise of atypical cell sizes, outliers can be removed. 
  
