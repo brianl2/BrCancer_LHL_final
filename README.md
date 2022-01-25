@@ -1,15 +1,18 @@
-# Predicting Malignant or Benign Breast Cancer Tumors.
+# Predicting Malignant or Benign Breast Cancer Tumors Using Supervised Learning and Classical Machine Learning Techniques
 This project was done as the Final Project Jan 2022 for the LightHouse Labs Data Science Bootcamp. 
 
 
-## Introduction and Motive 
+## Introduction & Project Overview
 It is estimated that 1 in 8 women in Canada will develop breast cancer in their lifetime. 
 As a method of risk prevention and screening, mammography is to visualize if a tumor is present. Breast cancer is often associated with a development of a tumor, which can be either benign (non-cancerous) or malignant (cancerous). If the presence of a tumor is found, a biopsy method (like Fine Need Aspiration (FNA)) is the only reliable diagnostic solution. The Tumor cell dimensions can be taken from the FNA biopsy and placed into a machine learning model to help identify whether a tumor is likely cancerous or not. 
 
 This implementation of machine learning could help physicians and pathologists in the field by filtering through biopsy results and determining if a given tumor is of concern based on its dimensions. 
 
+## Data
 The data for this project can be found here:
 Dataset: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
+
+# Project Workflow
 
 ## Exploratory Data Analysis: 
 Here, we visualize the data and see what we can identify from the data. 
@@ -65,6 +68,7 @@ https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70226903#7022
 
 Perhaps this will be the next project to tackle!
 
-Note: requirements.txt may have errors.
+Note: requirements.txt may be incorrect
+All required modules are used in Notebook 2.3 Model Tuning, and can be found there. 
 
 
