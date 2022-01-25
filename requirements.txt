@@ -1,31 +1,12 @@
-conda==4.10.3
-conda-build==3.21.4
-conda-verify==3.4.2
 imbalanced-learn==0.8.1
 jupyter==1.0.0
 matplotlib @ file:///C:/ci/matplotlib-suite_1613408055530/work
-mpmath==1.2.1
-notebook @ file:///C:/ci/notebook_1616443715883/work
 numpy @ file:///C:/ci/numpy_and_numpy_base_1618497418457/work
-numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
 pandas==1.3.5
-pandas-datareader==0.10.0
-pandocfilters @ file:///C:/ci/pandocfilters_1605102497129/work
-parso==0.7.0
-partd @ file:///tmp/build/80754af9/partd_1618000087440/work
-path @ file:///C:/ci/path_1614022440181/work
-pathlib2 @ file:///C:/ci/pathlib2_1607025069150/work
-pathspec==0.7.0
-pathy==0.6.1
+python==3.8.8
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
-pytest-metadata==1.11.0
-python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
-python-jsonrpc-server @ file:///tmp/build/80754af9/python-jsonrpc-server_1600278539111/work
-python-language-server @ file:///tmp/build/80754af9/python-language-server_1607972495879/work
-python-twitter==3.5
 scikit-image==0.18.1
 scikit-learn @ file:///C:/ci/scikit-learn_1614446896245/work
-scipy @ file:///C:/ci/scipy_1618856128765/work
 seaborn @ file:///tmp/build/80754af9/seaborn_1608578541026/work
 sklearn==0.0
 statsmodels==0.12.2
