@@ -18,7 +18,7 @@ Dataset: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diag
 
 ## Exploratory Data Analysis: 
 Here, we visualize the data and see what we can identify.
-  - We find that across all features / measurements of the cells, malignant cancerous cells typically carry higher values (This can be seen in [Notebook 1.1 Data Exploration]https://github.com/brianl2/BrCancer_LHL_final/blob/main/1.1%20Data%20Exploration.ipynb) 
+  - We find that across all features / measurements of the cells, malignant cancerous cells typically carry higher values (This can be seen in [Notebook 1.1 Data Exploration](https://github.com/brianl2/BrCancer_LHL_final/blob/main/1.1%20Data%20Exploration.ipynb) 
   - However, both benign and malignant cells are highly variable, and thus to reduce the noise of atypical cell sizes, outliers can be removed. 
  
 Findings: 
@@ -71,6 +71,6 @@ https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70226903#7022
 Perhaps this will be the next project to tackle!
 
 Note: requirements.txt may be incorrect
-All required modules are used in Notebook 2.3 Model Tuning, and can be found [here]https://github.com/brianl2/BrCancer_LHL_final/blob/main/2.3%20Model%20Tuning.ipynb
+All required modules are used in Notebook 2.3 Model Tuning, and can be found [here](https://github.com/brianl2/BrCancer_LHL_final/blob/main/2.3%20Model%20Tuning.ipynb)
 
 
