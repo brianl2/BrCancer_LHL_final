@@ -18,7 +18,7 @@ Dataset: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diag
 
 ## Exploratory Data Analysis: 
 Here, we visualize the data and see what we can identify.
-  - We find that across all features / measurements of the cells, malignant cancerous cells typically carry higher values (This can be seen in Notebook 1.1 Data Exploration) 
+  - We find that across all features / measurements of the cells, malignant cancerous cells typically carry higher values (This can be seen in [Notebook 1.1 Data Exploration]https://github.com/brianl2/BrCancer_LHL_final/blob/main/1.1%20Data%20Exploration.ipynb) 
   - However, both benign and malignant cells are highly variable, and thus to reduce the noise of atypical cell sizes, outliers can be removed. 
  
 Findings: 
@@ -38,7 +38,7 @@ Many of the features share colinearity with each other.
   - Features were further reduced using the RFE technique 
 
 We were left with 8 features at the end of feature engineering.
-These features can be seen at the end of Notebook 1.3 Feature Engineering
+These features can be seen at the end of [Notebook 1.3 Feature Engineering](https://github.com/brianl2/BrCancer_LHL_final/blob/main/1.3%20Feature%20Engineering.ipynb)
 
 ## Modeling and Evaluation:
 I tested multiple models, with various datasets (Features, new features, and final feature set) 
@@ -71,6 +71,6 @@ https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70226903#7022
 Perhaps this will be the next project to tackle!
 
 Note: requirements.txt may be incorrect
-All required modules are used in Notebook 2.3 Model Tuning, and can be found there. 
+All required modules are used in Notebook 2.3 Model Tuning, and can be found [here]https://github.com/brianl2/BrCancer_LHL_final/blob/main/2.3%20Model%20Tuning.ipynb
 
 
